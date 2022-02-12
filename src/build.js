@@ -42,3 +42,5 @@ const buildPage = () => {
 
 
 export default buildPage;
+
+// build homepage

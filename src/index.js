@@ -27,10 +27,3 @@ contactHeader.addEventListener('click', () => {
 
 window.addEventListener('load', buildPage);
 window.addEventListener('load', buildAbout);
-
-//  to remove homeContainer.remove() - might need to export the function or variable
-// document.querySelector('.content div:nth-child(3))
-// document.getElementById('content').firstChild.nextSibling.nextSibling.nextSibling
-
-// document.querySelector('.subheader').nextSibling.remove()
-// document.getElementById('content').lastChild.remove()

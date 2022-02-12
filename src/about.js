@@ -59,3 +59,5 @@ const buildAbout = () => {
 }
 
 export default buildAbout;
+
+//build about module
